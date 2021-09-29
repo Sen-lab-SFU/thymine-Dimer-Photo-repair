@@ -1,5 +1,5 @@
 # thymine-Dimer-Photo-repair
-This is the codebase for data generation and analysis for the nvestigation of Nucleotide-Mediated thymine Dimer Photo-repair In Duplex DNA.
+This is the codebase for data generation and analysis for the investigation of Nucleotide-Mediated thymine Dimer Photo-repair In Duplex DNA.
 
 The paper (LINK HERE) shows a novel method to investigate the effect of flanking bases on the formation and repair of Thymine dimer in duplex DNA.
 
